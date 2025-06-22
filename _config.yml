@@ -1,0 +1,11 @@
+title: "Bibek's ML Blog"
+description: "I share my Machine Learning and AI learning journey here."
+author: bibek
+theme: minima
+
+# Social Links
+twitter_username: Bibekipynb
+github_username: Bibekipynb
+
+# Permalink style
+permalink: /:year/:month/:day/:title.html
